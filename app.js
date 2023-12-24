@@ -7,7 +7,7 @@ const userRouter=require('./routes/userRoutes')
 require('dotenv').config();
 const path=require('path')
 
-const baseUrl = "https://portfolio-backend-og7d.onrender.com"
+
 
 const app=express();
 
